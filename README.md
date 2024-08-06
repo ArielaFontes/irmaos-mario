@@ -1,4 +1,4 @@
-<h1>ProjetoEncanadores Mario & Luigi</h1>
+<h1>Projeto Encanadores Mario & Luigi</h1>
 <br>
 <p>Projeto com o intuito de aperfeiçoamento com integração ao JavaScript para uma funcionalidade real.</p>
 <br>
